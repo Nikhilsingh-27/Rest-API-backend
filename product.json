@@ -1,0 +1,90 @@
+[
+    {
+      "name": "iPhone 15 Pro",
+      "price": 1299,
+      "featured": true,
+      "rating": 4.8,
+      "company": "apple"
+    },
+    {
+      "name": "Galaxy S24 Ultra",
+      "price": 1199,
+      "featured": false,
+      "company": "samsung"
+    },
+    {
+      "name": "Dell XPS 15",
+      "price": 1599,
+      "rating": 4.7,
+      "company": "dell"
+    },
+    {
+      "name": "Redmi Note 13",
+      "price": 249,
+      "company": "mi"
+    },
+    {
+      "name": "MacBook Air M2",
+      "price": 999,
+      "featured": true,
+      "company": "apple"
+    },
+    {
+      "name": "Samsung Galaxy Tab S9",
+      "price": 799,
+      "rating": 4.5,
+      "company": "samsung"
+    },
+    {
+      "name": "Dell Inspiron 14",
+      "price": 649,
+      "featured": false,
+      "company": "dell"
+    },
+    {
+      "name": "MI TV 5X",
+      "price": 459,
+      "rating": 4.3,
+      "company": "mi"
+    },
+    {
+      "name": "Apple Watch Series 9",
+      "price": 399,
+      "company": "apple"
+    },
+    {
+      "name": "Samsung Galaxy Watch 6",
+      "price": 349,
+      "featured": true,
+      "company": "samsung"
+    },
+    {
+      "name": "Dell Alienware M18",
+      "price": 2499,
+      "rating": 4.9,
+      "company": "dell"
+    },
+    {
+      "name": "Redmi Buds 5 Pro",
+      "price": 59,
+      "company": "mi"
+    },
+    {
+      "name": "iPad Pro 2024",
+      "price": 1199,
+      "company": "apple"
+    },
+    {
+      "name": "Samsung Smart Monitor M8",
+      "price": 699,
+      "featured": true,
+      "rating": 4.6,
+      "company": "samsung"
+    },
+    {
+      "name": "Dell UltraSharp 32",
+      "price": 1299,
+      "company": "dell"
+    }
+  ]
+  
